@@ -1,4 +1,4 @@
-{ "compressionlevel":-1, 
+{ "compressionlevel":-1,
  "editorsettings":
     {
      "chunksize":
@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":34,
@@ -72,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1xXMCQJ1qDmtvVHE0XMmGiiw7HwYNIR6i\/view?usp=sharing"
+                 "value":"https:\/\/fievel20.github.io\/WA-Maps\/prog.txt"
                 }],
          "type":"tilelayer",
          "visible":false,

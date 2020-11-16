@@ -1,4 +1,17 @@
 Welcome Tech Dev 2021 !!
 
-Rendez vous à 9h00 Dans l'Amphi principal
 
+Remédiation 1.  --> Revue de code inter ilot et FAQ structuration. (13h15-14h00) 
+a) Avec Raphaël : Ilot 1 et 2 se retrouvent dans vocal Campus 1 et présentent leurs choix de structuration à l'autre ilot. 
+b) Avec Florian : Ilot 3 et 4 se retrouvent dans Vocal Campus 2. Même consigne. 
+Objectif : voir une autre manière de faire et expliciter ses propres choix de structuration. Raph et moi seront présents pour répondre aux questions.
+.
+Remédiation 2.  --> Utilisation du debugger. (je vous laisse voter pour l'heure) 
+Objectif :  comment se sortir du :poop:  quand on est seul et perdu dans de lointaines contrées hostiles ? 
+-----------------------------------------------------------
+
+
+Heure remédiation 2.
+14h00 - 14h45 : on enchaîne !
+15h00 : j'ai besoin d'une pause entre les deux !
+16h00 : on finit la journée avec le debugger
